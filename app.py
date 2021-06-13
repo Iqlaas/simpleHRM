@@ -9,7 +9,7 @@ db = Database(
     user='root',
     password='test-kamal',
     host='34.69.151.13',
-    database='test'
+    database='test-kamal-mysql'
 )
 
 @app.get("/")
