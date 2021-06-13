@@ -1,0 +1,12 @@
+aiofiles==0.6.0
+click==7.1.2
+fastapi==0.63.0
+gunicorn==20.1.0
+h11==0.12.0
+mysql-connector==2.2.9
+pydantic==1.8.1
+PyMySQL==1.0.2
+pyodbc==4.0.30
+starlette==0.13.6
+typing-extensions==3.7.4.3
+uvicorn==0.13.4
