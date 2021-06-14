@@ -13,3 +13,7 @@ pip3 install -r requirements.txt
 uvicorn main:app --reload     #start server
 
 visit  127.0.0.1:8000/docs
+
+API https://simplehrm.herokuapp.com/docs
+
+API https://cool-state-316507.et.r.appspot.com/docs
